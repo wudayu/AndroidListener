@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidListener</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="edt_target_ip">Input ip address here.</string>
+    <string name="btn_start_listener_service">Get Start!</string>
+    <string name="btn_close_listener_service">Close!</string>
+    <string name="btn_send_info">Send!</string>
+
+    <string name="iv_dialog_pic">dialog picture</string>
+
+</resources>
